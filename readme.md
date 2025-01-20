@@ -2,6 +2,10 @@
 
 This project aims to detect fraudulent transactions using machine learning techniques, with a focus on handling imbalanced datasets and selecting relevant features. The model uses Random Forest and XGBoost classifiers to predict fraudulent transactions.
 
+# Presentation
+
+The presentation is in Docs For presenting folder
+
 ## Conclusion
 
 - **Recall Prioritization:** In banking, it is more critical to detect all potential fraud cases (even if it means more false positives) than to miss actual fraud cases.
